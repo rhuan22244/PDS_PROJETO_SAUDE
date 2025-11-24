@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255104020271",
+    "project_id": "meu-projeto-da2fe",
+    "storage_bucket": "meu-projeto-da2fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255104020271:android:702353f4f0f7402270bbda",
+        "android_client_info": {
+          "package_name": "com.example.projeto_pds_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZFPvD9v3JTUQ3V7ixA8BuDWkSMrntEb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
