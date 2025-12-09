@@ -1,16 +1,46 @@
-# projeto_pds_final
+🏥 Saúde+
 
-A new Flutter project.
+Aplicativo móvel desenvolvido utilizando Flutter no Android Studio, com foco em facilitar o acesso da população aos serviços de saúde pública, permitindo autenticação de usuários e marcação de consultas de forma simples e centralizada.
 
-## Getting Started
+📌 Sobre o Projeto
 
-This project is a starting point for a Flutter application.
+O Saúde+ é um projeto acadêmico desenvolvido para o curso de Análise e Desenvolvimento de Sistemas da ULBRA.
+O aplicativo tem como objetivo melhorar a organização e o acesso às informações e serviços de saúde, oferecendo uma interface intuitiva para usuários e profissionais da área.
 
-A few resources to get you started if this is your first Flutter project:
+🚀 Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Tela de Login com autenticação via Firebase Authentication
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Cadastro de usuários
+
+✅ Diferenciação de tipo de usuário (Paciente / Médico)
+
+✅ Marcação de consultas por especialidade
+
+✅ Horários específicos por especialidade
+
+✅ Horários ocupados removidos automaticamente
+
+✅ Associação da consulta ao usuário autenticado
+
+✅ Seleção de local (Imbé ou Tramandaí)
+
+✅ Armazenamento de dados no Firebase Firestore
+
+✅ Logout
+
+✅ Interface responsiva
+
+🛠️ Tecnologias Utilizadas
+
+Flutter
+
+Dart
+
+Android Studio
+
+Firebase Authentication
+
+Firebase Firestore
+
+Git & GitHub
